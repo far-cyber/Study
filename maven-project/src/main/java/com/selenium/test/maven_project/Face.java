@@ -20,7 +20,7 @@ public class Face {
 		ele.sendKeys("185269zzz@");
 		WebElement el=driver.findElement(By.name("yt0"));
 		el.click();
-		
+		//sy
 		}
 	
 	}
