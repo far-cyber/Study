@@ -22,6 +22,7 @@ public class Face {
 		el.click();
 		//sy
 		//india
+		//in
 		}
 	
 	}
