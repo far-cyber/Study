@@ -21,6 +21,7 @@ public class Face {
 		WebElement el=driver.findElement(By.name("yt0"));
 		el.click();
 		//sy
+		//india
 		}
 	
 	}
